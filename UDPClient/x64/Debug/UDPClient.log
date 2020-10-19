@@ -1,0 +1,4 @@
+﻿  UDPClient.cpp
+E:\MFC-孙鑫\UDP\UDPClient\UDPClient.cpp(49,29): warning C4244: “=”: 从“u_long”转换到“USHORT”，可能丢失数据
+E:\MFC-孙鑫\UDP\UDPClient\UDPClient.cpp(51,116): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  UDPClient.vcxproj -> E:\MFC-孙鑫\UDP\UDPClient\x64\Debug\UDPClient.exe
